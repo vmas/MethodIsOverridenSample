@@ -1,0 +1,8 @@
+{
+  "sdk": {
+    "version": "5.0.100"
+  },
+  "msbuild-sdks": {
+    "Microsoft.NET.Sdk.IL": "5.0.0"
+  }
+}

@@ -1,0 +1,13 @@
+<Project Sdk="Microsoft.NET.Sdk.IL">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\TestLib\TestLib.csproj">
+      <SetConfiguration>Configuration=Refonly</SetConfiguration>
+    </ProjectReference>
+  </ItemGroup>
+
+</Project>
